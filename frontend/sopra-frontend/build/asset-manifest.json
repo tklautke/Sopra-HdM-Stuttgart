@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.073c9b0a.css",
+    "main.js": "/static/js/main.e7b66cb8.js",
+    "static/media/logo_transparent_wei.png": "/static/media/logo_transparent_wei.52074218e294e848216e.png",
+    "index.html": "/index.html",
+    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
+    "main.e7b66cb8.js.map": "/static/js/main.e7b66cb8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.e7b66cb8.js"
+  ]
+}
